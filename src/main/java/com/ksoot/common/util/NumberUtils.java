@@ -1,9 +1,8 @@
 package com.ksoot.common.util;
 
+import java.math.BigDecimal;
 import lombok.experimental.UtilityClass;
 import org.apache.commons.lang3.StringUtils;
-
-import java.math.BigDecimal;
 
 @UtilityClass
 public class NumberUtils {

@@ -38,13 +38,8 @@
 		<commons-collections4.version>4.4</commons-collections4.version>
 		<guava.version>32.1.2-jre</guava.version>
 
-		<maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
-        <maven-release-plugin.version>3.0.0-M1</maven-release-plugin.version>
-        <maven-deploy-plugin.version>3.1.1</maven-deploy-plugin.version>
-		<fmt-maven-plugin.version>2.21.1</fmt-maven-plugin.version>
-		<maven-checkstyle-plugin.version>3.3.0</maven-checkstyle-plugin.version>
-
 		<scm.connection>scm:git:git@github.com:officiallysingh/core-commons.git</scm.connection>
+		<maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
 		<maven-source-plugin.version>3.2.1</maven-source-plugin.version>
 		<maven-javadoc-plugin.version>3.5.0</maven-javadoc-plugin.version>
 		<maven-gpg-plugin.version>3.1.0</maven-gpg-plugin.version>
@@ -207,6 +202,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>
