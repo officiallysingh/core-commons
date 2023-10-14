@@ -1,4 +1,4 @@
-package com.gangatourism.common.util;
+package com.ksoot.common.util;
 
 import lombok.experimental.UtilityClass;
 
@@ -9,7 +9,7 @@ public final class ClassUtils {
     try {
       org.apache.commons.lang3.ClassUtils.getClass(className, false);
       return true;
-    } catch (ClassNotFoundException e) {
+    } catch (final ClassNotFoundException e) {
       return false;
     }
   }

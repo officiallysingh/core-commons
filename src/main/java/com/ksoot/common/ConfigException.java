@@ -1,4 +1,4 @@
-package com.gangatourism.common;
+package com.ksoot.common;
 
 /**
  * A configuration related runtime exception.

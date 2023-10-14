@@ -1,4 +1,4 @@
-package com.gangatourism.common;
+package com.ksoot.common;
 
 public enum Order {
   ONE(1),

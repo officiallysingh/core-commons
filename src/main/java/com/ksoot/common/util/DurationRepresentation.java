@@ -1,4 +1,4 @@
-package com.gangatourism.common.util;
+package com.ksoot.common.util;
 
 import jakarta.validation.constraints.Size;
 import java.time.Duration;

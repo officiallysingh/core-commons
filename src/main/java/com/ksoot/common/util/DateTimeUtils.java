@@ -1,4 +1,4 @@
-package com.gangatourism.common.util;
+package com.ksoot.common.util;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

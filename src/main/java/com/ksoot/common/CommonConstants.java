@@ -1,4 +1,4 @@
-package com.gangatourism.common;
+package com.ksoot.common;
 
 import java.util.Locale;
 import lombok.experimental.UtilityClass;
