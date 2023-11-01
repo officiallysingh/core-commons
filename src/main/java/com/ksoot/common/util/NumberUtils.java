@@ -50,4 +50,8 @@ public class NumberUtils {
   public boolean lt(final BigDecimal source, final BigDecimal target) {
     return source.compareTo(target) < 0;
   }
+
+  public boolean ne(final BigDecimal source, final BigDecimal target) {
+    return source.compareTo(target) != 0;
+  }
 }
